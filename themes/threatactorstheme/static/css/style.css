@@ -1,0 +1,25 @@
+html {
+    background-color: #000 !important;
+}
+
+body {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+
+main {
+	flex: 1;	
+}
+
+.max-800px {
+    max-width: 800px !important;
+}
+
+p {
+    color: #fff !important;
+}
+
+table {
+	color: #fff !important;
+}

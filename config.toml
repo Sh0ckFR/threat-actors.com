@@ -1,0 +1,22 @@
+baseURL = 'http://localhost:1313/'
+languageCode = 'en-us'
+title = 'Threat-Actors.com'
+theme = 'threatactorstheme'
+
+[[menu.main]]
+    name = "Ransomware Groups"
+    url = "/ransomwaregroups"
+
+[[menu.main]]
+    name = "About"
+    url = "/about"
+
+[[menu.social]]
+    name = "GitHub"
+    url = "https://github.com/Sh0ckFR"
+    pre = "<i class='fab fa-github'></i>"
+
+[[menu.social]]
+    name = "Twitter"
+    url = "https://twitter.com/Sh0ckFR"
+    pre = "<i class='fab fa-twitter'></i>"
