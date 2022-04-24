@@ -9,7 +9,7 @@ draft: false
 | #                                                | Last Incident                                                      | Victim Count | Status
 | -------------------------------------------------| -------------------------------------------------------------------|--------------|------------
 | [LockBit 2.0](/ransomwaregroups/lockbit2.0)      | tigergroup.ae (2022-04-24-07:53)                                   | 845          | ![fa-toggle-on](/pictures/button-on.png)
-| Conti                                            | Jasec (2022-04-23-11:42)                                           | 801          | ![fa-toggle-on](/pictures/button-on.png)
+| [Conti](/ransomwaregroups/conti)                 | Jasec (2022-04-23-11:42)                                           | 801          | ![fa-toggle-on](/pictures/button-on.png)
 | Pysa (Mespinoza)                                 | Chr Solutions (2021-12-06)                                         | 309          | ![fa-toggle-on](/pictures/button-on.png)
 | REvil Sodinokibi                                 | Stratford University (2022-04-22-23:49)                            | 289          | ![fa-toggle-on](/pictures/button-on.png)
 | CL0P                                             | PERBIT.COM (2022-04-19-00:19)                                      | 125          | ![fa-toggle-on](/pictures/button-on.png)
