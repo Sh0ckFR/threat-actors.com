@@ -4,4 +4,4 @@ PYSA ransomware group operates as a ransomware-as-a-service (RaaS) model. PYSA s
 
 ## Tor Links / Social Networks
 
-* pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion (Down)
+* pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion (down 24/04/2022)
