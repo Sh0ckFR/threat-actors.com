@@ -1,0 +1,83 @@
+@font-face {
+    font-family: 'himagsikan';
+    src: url('fonts/himagsikan.eot');
+    src: url('fonts/himagsikan.eot') format('embedded-opentype'),
+         url('fonts/himagsikan.woff2') format('woff2'),
+         url('fonts/himagsikan.woff') format('woff'),
+         url('fonts/himagsikan.ttf') format('truetype'),
+         url('fonts/himagsikan.svg#himagsikan') format('svg');
+}
+
+html {
+    background-color: #000 !important;
+}
+
+body {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+
+main {
+	flex: 1;	
+}
+
+.max-800px {
+    max-width: 800px !important;
+}
+
+p {
+    color: #fff !important;
+}
+
+table {
+	color: #fff !important;
+}
+
+a {
+	color: #00ff00 !important;
+}
+
+nav a {
+	color: #000 !important;
+}
+
+nav h1 {
+	color: #000 !important;
+    font-family: BlinkMacSystemFont,-apple-system,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif !important;
+}
+
+li {
+	color: #fff !important;
+}
+
+h1, h2 {
+	color: #ffffff !important;
+	font-family: himagsikan !important;
+}
+
+h3 {
+	color: #ffffff !important;
+}
+
+th {
+	color: #fff !important;
+}
+
+#threat-actorscom {
+	text-align: center;
+}
+
+#your-daily-updated-links-and-resources-about-the-different-cyber-threat-actors {
+	text-align: center;
+}
+
+h4#logopictureslogopng {
+	text-align: center;
+	margin-top: 2em !important;
+}
+
+h4#logopictureslogopng img {
+	width: 40% !important;
+	margin: 0 auto !important;
+}
