@@ -9,9 +9,14 @@ theme = 'threatactorstheme'
     weight = 1
 
 [[menu.main]]
+    name = "Illegal Forums"
+    url = "/forums"
+    weight = 2
+
+[[menu.main]]
     name = "About"
     url = "/about"
-    weight = 2
+    weight = 3
 
 [[menu.social]]
     name = "GitHub"
