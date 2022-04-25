@@ -1,9 +1,3 @@
----
-title: "About"
-date: 2022-04-24T16:56:34+02:00
-draft: false
----
-
 # About Threat-Actors.com
 
 Threat-Actors.com is a website created to reference all daily updated links and resources about the different cyber threat actors.
