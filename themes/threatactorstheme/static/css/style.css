@@ -1,11 +1,11 @@
 @font-face {
-    font-family: 'Rachella';
-    src: url('fonts/Rachella.eot');
-    src: url('fonts/Rachella.eot') format('embedded-opentype'),
-         url('fonts/Rachella.woff2') format('woff2'),
-         url('fonts/Rachella.woff') format('woff'),
-         url('fonts/Rachella.ttf') format('truetype'),
-         url('fonts/Rachella.svg#Rachella') format('svg');
+    font-family: 'himagsikan';
+    src: url('fonts/himagsikan.eot');
+    src: url('fonts/himagsikan.eot') format('embedded-opentype'),
+         url('fonts/himagsikan.woff2') format('woff2'),
+         url('fonts/himagsikan.woff') format('woff'),
+         url('fonts/himagsikan.ttf') format('truetype'),
+         url('fonts/himagsikan.svg#himagsikan') format('svg');
 }
 
 html {
@@ -35,7 +35,7 @@ table {
 }
 
 a {
-	color: #ff0000 !important;
+	color: #00ff00 !important;
 }
 
 nav a {
@@ -51,11 +51,32 @@ li {
 	color: #fff !important;
 }
 
-h1 {
-	color: #fff !important;
-	font-family: Rachella !important;
+h1, h2 {
+	color: #ffffff !important;
+	font-family: himagsikan !important;
+}
+
+h3 {
+	color: #ffffff !important;
 }
 
 th {
 	color: #fff !important;
+}
+
+#threat-actorscom {
+	text-align: center;
+}
+
+#your-daily-updated-links-and-resources-about-the-different-cyber-threat-actors {
+	text-align: center;
+}
+
+h4#logopictureslogopng {
+	text-align: center;
+	margin-top: 2em !important;
+}
+h4#logopictureslogopng img {
+	width: 40% !important;
+	margin: 0 auto !important;
 }
