@@ -1,3 +1,13 @@
+@font-face {
+    font-family: 'Rachella';
+    src: url('fonts/Rachella.eot');
+    src: url('fonts/Rachella.eot') format('embedded-opentype'),
+         url('fonts/Rachella.woff2') format('woff2'),
+         url('fonts/Rachella.woff') format('woff'),
+         url('fonts/Rachella.ttf') format('truetype'),
+         url('fonts/Rachella.svg#Rachella') format('svg');
+}
+
 html {
     background-color: #000 !important;
 }
@@ -32,6 +42,20 @@ nav a {
 	color: #000 !important;
 }
 
+nav h1 {
+	color: #000 !important;
+    font-family: BlinkMacSystemFont,-apple-system,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif !important;
+}
+
 li {
+	color: #fff !important;
+}
+
+h1 {
+	color: #fff !important;
+	font-family: Rachella !important;
+}
+
+th {
 	color: #fff !important;
 }
