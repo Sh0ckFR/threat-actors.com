@@ -2,6 +2,8 @@
 
 Threat-Actors.com is a website created to reference all daily updated links and resources about the different cyber threat actors.
 
+This website is not an illegal cyber criminal website, the links hosted here are only used for cyber threat analyses purposes.
+
 If you work as threat analyst and that you want to participate, you can ask a pull request on the [GitHub](https://github.com/Sh0ckFR/threat-actors.com) to update the lists of the resources.
 
 Here are the different files to edit:
