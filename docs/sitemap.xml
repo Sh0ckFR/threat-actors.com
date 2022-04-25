@@ -2,41 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://threat-actors.com/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://threat-actors.com/about/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://localhost:1313/forums/</loc>
+    <loc>https://threat-actors.com/forums/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://localhost:1313/ransomwaregroups/</loc>
+    <loc>https://threat-actors.com/ransomwaregroups/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://localhost:1313/ransomwaregroups/cl0p/</loc>
+    <loc>https://threat-actors.com/ransomwaregroups/cl0p/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://localhost:1313/ransomwaregroups/conti/</loc>
+    <loc>https://threat-actors.com/ransomwaregroups/conti/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://localhost:1313/ransomwaregroups/grief/</loc>
+    <loc>https://threat-actors.com/ransomwaregroups/grief/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://localhost:1313/ransomwaregroups/hiveleaks/</loc>
+    <loc>https://threat-actors.com/ransomwaregroups/hiveleaks/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://localhost:1313/ransomwaregroups/lockbit2.0/</loc>
+    <loc>https://threat-actors.com/ransomwaregroups/lockbit2.0/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://localhost:1313/ransomwaregroups/pysa-mespinoza/</loc>
+    <loc>https://threat-actors.com/ransomwaregroups/pysa-mespinoza/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://localhost:1313/ransomwaregroups/revil/</loc>
+    <loc>https://threat-actors.com/ransomwaregroups/revil/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://threat-actors.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://threat-actors.com/tags/</loc>
   </url>
 </urlset>

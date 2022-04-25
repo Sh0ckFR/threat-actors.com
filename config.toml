@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:1313/'
+baseURL = 'https://threat-actors.com/'
 languageCode = 'en-us'
 title = 'Threat-Actors.com'
 theme = 'threatactorstheme'
