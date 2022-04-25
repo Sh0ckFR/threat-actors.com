@@ -6,10 +6,12 @@ theme = 'threatactorstheme'
 [[menu.main]]
     name = "Ransomware Groups"
     url = "/ransomwaregroups"
+    weight = 1
 
 [[menu.main]]
     name = "About"
     url = "/about"
+    weight = 2
 
 [[menu.social]]
     name = "GitHub"
