@@ -1,9 +1,3 @@
----
-title: "Forums"
-date: 2022-04-24T16:56:34+02:00
-draft: false
----
-
 # Forums
 
 | #                                  | URL                                                                   | Status
